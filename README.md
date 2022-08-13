@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Marlon Fernandes 👋
 
 <!--
 **marlonffernandes/marlonffernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Network Design and Development Engineer
+- Professional experience in IoT, RF Mesh, Wireless and Mobile Networks, Linux and Python
+- Electrical Engineer from Federal University of Paraná (UFPR)
