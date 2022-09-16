@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 - Network Design | Network Development Engineer
 - Professional experience in IoT, RF Mesh, Wireless and Mobile Networks, Linux and Python
 - Electrical Engineer from Federal University of Paraná (UFPR)
+
+
+
+<sub><sup>new profile account</sup></sub>
