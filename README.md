@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - Network Design | Network Development Engineer
 - Professional experience in Wireless, IoT, RF Mesh, Satellite and Mobile Networks, TCP/UDP, Linux and Python
-- Electrical | Electronics Engineer - Bachelor of Engineering - BE. Electrical, Eletronics and Communications Engineering - UFPR - South Brazil
+- Electrical | Electronics Engineer - Bachelor of Engineering - BE. Electrical, Eletronics and Communications Engineering - UFPR
 
 
 
